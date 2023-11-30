@@ -6,6 +6,6 @@ console.log(value);
 // output: 50
 
 const compareGreaterThan100 = (number) => number > 100;
-const notfound = array.find(compareGreaterThan100);
-console.log(notfound);
+const notFound = array.find(compareGreaterThan100);
+console.log(notFound);
 // output: undefined
