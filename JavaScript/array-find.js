@@ -1,4 +1,4 @@
-const array = [1, 2, 3, 4, 50, 6, 50, 8, 9, 10];
+const array = [1, 2, 3, 4, 50, 6, 52, 8, 9, 10];
 
 const compareGreaterThan20 = (number) => number > 20;
 const value = array.find(compareGreaterThan20);
