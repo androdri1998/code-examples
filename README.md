@@ -14,6 +14,7 @@ This is a project to store small pieces of code, generally some tests
 | [JavaScript/concepts/destructure](JavaScript/concepts/destructure.js)             | explaning about destructure variables   | Concepts     |
 | [JavaScript/concepts/spread-operator](JavaScript/concepts/spread-operator.js)     | explaning about spread operator         | Concepts     |
 | [JavaScript/concepts/promises](JavaScript/concepts/promises.js)                   | explaning about promises                | Concepts     |
+| [JavaScript/concepts/yield](JavaScript/concepts/yield.js)                         | explaning about yield                   | Concepts     |
 | [JavaScript/array/filter](JavaScript/array/filter.js)                             | explaning about filter array method     | Array Method |
 | [JavaScript/array/map](JavaScript/array/map.js)                                   | explaning about map array method        | Array Method |
 | [JavaScript/array/find](JavaScript/array/find.js)                                 | explaning about find array method       | Array Method |
@@ -21,4 +22,4 @@ This is a project to store small pieces of code, generally some tests
 | [JavaScript/array/every](JavaScript/array/every.js)                               | explaning about every array method      | Array Method |
 | [JavaScript/array/find-index](JavaScript/array/find-index.js)                     | explaning about find index array method | Array Method |
 | [JavaScript/array/some](JavaScript/array/some.js)                                 | explaning about some array method       | Array Method |
-| [JavaScript/array/iterator](JavaScript/array/iterator.js)                         | explaning about iterator                | Interator    |
+| [JavaScript/array/iterator](JavaScript/array/iterator.js)                         | explaning about iterator                | Array        |
