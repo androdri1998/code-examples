@@ -7,6 +7,6 @@ const index = array.findIndex(isEqualToFive);
 console.log(index);
 // output: 4
 
-const secondResult = arraySmaller.every(isEqualToFive);
-console.log(secondResult);
-// output: false
+const result = arraySmaller.findIndex(isEqualToFive);
+console.log(result);
+// output: -1
