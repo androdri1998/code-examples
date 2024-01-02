@@ -21,3 +21,4 @@ This is a project to store small pieces of code, generally some tests
 | [JavaScript/array/every](JavaScript/array/every.js)                               | explaning about every array method      | Array Method |
 | [JavaScript/array/find-index](JavaScript/array/find-index.js)                     | explaning about find index array method | Array Method |
 | [JavaScript/array/some](JavaScript/array/some.js)                                 | explaning about some array method       | Array Method |
+| [JavaScript/array/iterator](JavaScript/array/iterator.js)                         | explaning about iterator                | Interator    |
