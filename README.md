@@ -15,6 +15,7 @@ This is a project to store small pieces of code, generally some tests
 | [JavaScript/concepts/rest-operator](JavaScript/concepts/rest-operator.js)           | explaning about rest operator           | Concepts     |
 | [JavaScript/concepts/variadic-function](JavaScript/concepts/variadic-function.js)   | explaning about variadic function       | Concepts     |
 | [JavaScript/concepts/generator-function](JavaScript/concepts/generator-function.js) | explaning about generator function      | Concepts     |
+| [JavaScript/concepts/tagged-template](JavaScript/concepts/tagged-template.js)       | explaning about tagged template         | Concepts     |
 | [JavaScript/concepts/spread-operator](JavaScript/concepts/spread-operator.js)       | explaning about spread operator         | Concepts     |
 | [JavaScript/concepts/promises](JavaScript/concepts/promises.js)                     | explaning about promises                | Concepts     |
 | [JavaScript/concepts/yield](JavaScript/concepts/yield.js)                           | explaning about yield                   | Concepts     |
