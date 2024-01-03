@@ -12,6 +12,7 @@ This is a project to store small pieces of code, generally some tests
 | [JavaScript/concepts/swap](JavaScript/concepts/swap.js)                           | explaning about swap variables          | Concepts     |
 | [JavaScript/concepts/template-literals](JavaScript/concepts/template-literals.js) | explaning about Template literals       | Concepts     |
 | [JavaScript/concepts/destructure](JavaScript/concepts/destructure.js)             | explaning about destructure variables   | Concepts     |
+| [JavaScript/concepts/rest-operator](JavaScript/concepts/rest-operator.js)         | explaning about rest-operator           | Concepts     |
 | [JavaScript/concepts/spread-operator](JavaScript/concepts/spread-operator.js)     | explaning about spread operator         | Concepts     |
 | [JavaScript/concepts/promises](JavaScript/concepts/promises.js)                   | explaning about promises                | Concepts     |
 | [JavaScript/concepts/yield](JavaScript/concepts/yield.js)                         | explaning about yield                   | Concepts     |
