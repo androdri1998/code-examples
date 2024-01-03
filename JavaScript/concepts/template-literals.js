@@ -1,16 +1,16 @@
 const person = {
   description: "people",
-  age: 21,
+  age: 25,
 };
 
 const template = `
   some ${person.description}
-            has 
+            are 
                             ${person.age} years old
 `;
 
 console.log(template);
 // output:
 //   some people
-//             has
-//                            21 years old
+//             are
+//                            25 years old
