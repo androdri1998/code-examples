@@ -23,6 +23,7 @@ This is a project to store small pieces of code, generally some tests
 | [JavaScript/concepts/promise-all-settled](JavaScript/concepts/promise-all-settled.js) | explaning about promise allSettled method | Concepts     |
 | [JavaScript/concepts/promise-all](JavaScript/concepts/promise-all.js)                 | explaning about promise all method        | Concepts     |
 | [JavaScript/concepts/yield](JavaScript/concepts/yield.js)                             | explaning about yield                     | Concepts     |
+| [JavaScript/concepts/hoisting](JavaScript/concepts/hoisting.js)                       | explaning about hoisting                  | Concepts     |
 | [JavaScript/array/filter](JavaScript/array/filter.js)                                 | explaning about filter array method       | Array Method |
 | [JavaScript/array/map](JavaScript/array/map.js)                                       | explaning about map array method          | Array Method |
 | [JavaScript/array/find](JavaScript/array/find.js)                                     | explaning about find array method         | Array Method |
