@@ -1,20 +1,29 @@
-function functionWithThis() {
-  this.setTimeout(() => {
-    console.log(
-      "this function with function reserved word and this was called"
-    );
-  }, 1000);
-}
-functionWithThis();
+this.count = 4;
 
-const constWithThis = () => {
-  try {
-    this.setTimeout(() => {
-      console.log("this function with const and this was called");
-    }, 1000);
-  } catch (err) {
-    console.log(err);
-  }
+function showCounter() {
+  console.log(this.count);
+}
+
+const showCounterArrow = () => {
+  console.log(this.count);
 };
-constWithThis();
-console.log("======================");
+
+const counter1 = {
+  count: 5,
+  show: showCounter,
+};
+counter1.show();
+
+const counter2 = {
+  count: 6,
+  show: showCounter,
+};
+counter2.show();
+
+const counter3 = {
+  count: 7,
+  show: () => {
+    showCounterArrow();
+  },
+};
+counter3.show();
