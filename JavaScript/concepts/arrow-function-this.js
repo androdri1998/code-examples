@@ -13,17 +13,18 @@ const counter1 = {
   show: showCounter,
 };
 counter1.show();
+// output: 5
 
 const counter2 = {
   count: 6,
   show: showCounter,
 };
 counter2.show();
+// output: 6
 
 const counter3 = {
   count: 7,
-  show: () => {
-    showCounterArrow();
-  },
+  show: showCounterArrow,
 };
 counter3.show();
+// output: 4
