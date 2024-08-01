@@ -7,6 +7,8 @@ This is a project to store small pieces of code, generally some tests
 | Directory                                         | Description               | Topic    |
 | ------------------------------------------------- | ------------------------- | -------- |
 | [Go/closure/main.go](Go/concepts/closure/main.go) | explaining about closures | Concepts |
+| [Go/array/main.go](Go/concepts/array/main.go)     | explaining about array    | Concepts |
+| [Go/map/main.go](Go/concepts/map/main.go)         | explaining about map      | Concepts |
 
 ## JavaScript Examples
 
