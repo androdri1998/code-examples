@@ -18,6 +18,7 @@ This is a project to store small pieces of code, generally some tests
 | [JavaScript/loops/while](JavaScript/loops/while.js)                                      | explaining about while loops                       | Loops        |
 | [JavaScript/search/linear-search](JavaScript/search/linear-search.js)                    | explaining about linear search                     | Search       |
 | [JavaScript/concepts/swap](JavaScript/concepts/swap.js)                                  | explaining about swap variables                    | Concepts     |
+| [JavaScript/concepts/memoization](JavaScript/concepts/memoization.js)                    | explaining about memoization                       | Concepts     |
 | [JavaScript/concepts/first-class-functions](JavaScript/concepts/first-class-function.js) | explaining about first class functions             | Concepts     |
 | [JavaScript/concepts/template-literals](JavaScript/concepts/template-literals.js)        | explaining about Template literals                 | Concepts     |
 | [JavaScript/concepts/destructure](JavaScript/concepts/destructure.js)                    | explaining about destructure variables             | Concepts     |
