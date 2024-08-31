@@ -1,12 +1,12 @@
-const array = [1, 2, 3, 4, 5];
-const arrayBigger = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+const array1 = [1, 2, 3, 4, 5];
+const array2 = [1, 2, 3, 4, 5, 6];
 
-const isLessOrEqualThanFive = (value) => value <= 5;
+const isLessThanOrEqualFive = (value) => value <= 5;
 
-const result = array.every(isLessOrEqualThanFive);
-console.log(result);
+const firstResult = array1.every(isLessThanOrEqualFive);
+console.log(firstResult);
 // output: true
 
-const secondResult = arrayBigger.every(isLessOrEqualThanFive);
+const secondResult = array2.every(isLessThanOrEqualFive);
 console.log(secondResult);
 // output: false
